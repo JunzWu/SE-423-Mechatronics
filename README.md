@@ -1,2 +1,2 @@
 # SE-423-Mechatronics
-The homework code in the Mechatronics course in UIUC.
+The homework code in the mechatronics course in UIUC.
